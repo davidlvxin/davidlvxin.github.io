@@ -29,7 +29,7 @@ Publications & Preprints
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://transirius.github.io/images/pub/kat.png" width="250">
+	    <img src="http://davidlvxin.github.io/images/pub/kat.png" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
@@ -55,7 +55,7 @@ Publications & Preprints
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://transirius.github.io/images/pub/inferkg.png" width="250">
+	    <img src="http://davidlvxin.github.io/images/pub/inferkg.png" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
@@ -194,7 +194,7 @@ Publications & Preprints
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
-	    <img src="http://transirius.github.io/images/pub/openke.png" width="250">
+	    <img src="http://davidlvxin.github.io/images/pub/openke.png" width="250">
 	  </td>
 	  <td style="width:10px">
 	  </td>
