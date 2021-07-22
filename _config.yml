@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zijun Yao"
+title                    : "Xin Lv"
 title_separator          : "-"
-name                     : &name "Zijun Yao"
-description              : &description "First Year Grad Student @ Knowledge Engineering Group, Tsinghua University"
-url                      : https://transirius.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xin Lv"
+description              : &description "Third Year Ph.D Student @ Knowledge Engineering Group, Tsinghua University"
+url                      : https://davidlvxin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TranSirius/TranSirius.github.io"
+repository               : "davidlvxin/davidlvxin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zijun Yao"
+  name             : "Xin Lv（吕鑫）"
   avatar           : "profile.jpg"
-  bio              : "First Year Grad Student @ KEG, Tsinghua University"
+  bio              : "Third Year Ph.D Student @ KEG, Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&authuser=3&user=B4LmHSUAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=rJzgbYQAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "TranSirius"
+  github           : "davidlvxin"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Zijun08160000"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
