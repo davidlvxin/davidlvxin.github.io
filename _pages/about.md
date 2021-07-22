@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,213 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a third year Ph.D student at the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) in Tsinghua University, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/).
+I received my bachelor's degree in Computer Science and Technology from [Tsinghua University](https://www.tsinghua.edu.cn/).
+I am currently working on Knowledge Graph and Natural Language Processing.
 
-A data-driven personal website
+<!-- What's New
+===== -->
+
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+Publications & Preprints
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+2021
+-----
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://transirius.github.io/images/pub/kat.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Interpretable and Low-Resource Entity Matching via Decoupling Feature Learning from Decision Making
+        </b>
+        <br>
+		<i>
+        	ACL 2021
+        </i>
+        <br>
+	    	Zijun Yao, Chengjiang Li, Tiansi Dong, <b>Xin Lv</b>, Jifan Yu, Lei Hou, Juanzi Li, Yichi Zhang and Zelin Dai
+        <br>
+		[<a href="https://arxiv.org/abs/2106.04174">PDF</a>]
+        [<a href="https://github.com/THU-KEG/HIF-KAT">Code</a>]
+        <br>
+			We propose to decouple the representation learning stage and the decision making stage to fully utilize unlabeled data for entity matching task.
+		</div>
+	</td></tr></tbody>
+</table>
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://transirius.github.io/images/pub/inferkg.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Are Missing Links Predictable? An Inferential Benchmark for Knowledge Graph Completion
+        </b>
+        <br>
+		<i>
+        	ACL 2021
+        </i>
+        <br>
+	    	Yixin Cao, Xiang Ji, <b>Xin Lv</b>, Juanzi Li, Yonggang Wen and Hanwang Zhang
+        <br>
+        <br>
+			We highlighted three principles for KGC datasets: inferential ability, assumptions, and patterns, and contribute a large-scale dataset InferWiki. We established a benchmark with three types of seven KGC models on two tasks of triple classification and link prediction.
+		</div>
+	</td></tr></tbody>
+</table>
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://davidlvxin.github.io/images/pub/kacc.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	KACC: A Multi-task Benchmark for Knowledge Abstraction, Concretization and Completion
+        </b>
+        <br>
+		<i>
+        	ACL Findings 2021
+        </i>
+        <br>
+	    	Jie Zhou, Shengding Hu, <b>Xin Lv</b>, Cheng Yang, Zhiyuan Liu, Wei Xu, Jie Jiang, Juanzi Li and Maosong Sun
+        <br>
+		[<a href="https://arxiv.org/pdf/2004.13631.pdf">PDF</a>]
+        [<a href="https://github.com/thunlp/KACC">Code</a>]
+        <br>
+			We focus on the problems of knowledge abstraction, concretization, and completion. We propose a benchmark to test the abilities of models on KACC.
+		</div>
+	</td></tr></tbody>
+</table>
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+2020
+-----
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://davidlvxin.github.io/images/pub/dackgr.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Dynamic Anticipation and Completion for Multi-Hop Reasoning over Sparse Knowledge Graph
+        </b>
+        <br>
+		<i>
+        	EMNLP 2020
+        </i>
+        <br>
+	    	<b>Xin Lv</b>, Xu Han, Lei Hou, Juanzi Li, Zhiyuan Liu, Wei Zhang, Yichi Zhang, Hao Kong, Suhui Wu
+        <br>
+		    [<a href="https://www.aclweb.org/anthology/2020.emnlp-main.459.pdf">PDF</a>]
+        [<a href="https://github.com/THU-KEG/DacKGR">Code</a>]
+        <br>
+			We propose a reinforcement learning model named DacKGR with two strategies (i.e., dynamic anticipation and dynamic completion) designed for sparse KGs. These strategies can ease the sparsity of KGs.
+		</div>
+	</td></tr></tbody>
+</table>
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+2019
+-----
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://davidlvxin.github.io/images/pub/metakgr.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations
+        </b>
+        <br>
+		<i>
+        	EMNLP 2019
+        </i>
+        <br>
+	    	<b>Xin Lv</b>, Yuxian Gu, Xu Han, Lei Hou, Juanzi Li, Zhiyuan Liu
+        <br>
+		[<a href="https://www.aclweb.org/anthology/D19-1334.pdf">PDF</a>]
+        [<a href="https://github.com/THU-KEG/MetaKGR">Code</a>]
+        <br>
+			We propose a meta-learning based model named Meta-KGR for multi-hop reasoning over few-shot relations of knowledge graphs.
+		</div>
+	</td></tr></tbody>
+</table>
+
+2018
+-----
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://davidlvxin.github.io/images/pub/transc.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Differentiating Concepts and Instances for Knowledge Graph Embedding
+        </b>
+        <br>
+		<i>
+        	EMNLP 2018
+        </i>
+        <br>
+	    	<b>Xin Lv</b>, Lei Hou, Juanzi Li, Zhiyuan Liu
+        <br>
+		[<a href="https://aclanthology.org/D18-1222.pdf">PDF</a>]
+        [<a href="https://github.com/davidlvxin/TransC">Code</a>]
+        <br>
+			We propose a new knowledge embedding model named TransC. TransC embeds instances, concepts, and relations in the same space to deal with the transitivity of isA relations.
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://transirius.github.io/images/pub/openke.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	OpenKE: An Open Toolkit for Knowledge Embedding
+        </b>
+        <br>
+		<i>
+        	EMNLP 2018
+        </i>
+        <br>
+	    	Xu Han, Shulin Cao, <b>Xin Lv</b>, Yankai Lin, Zhiyuan Liu, Maosong Sun, Juanzi Li
+        <br>
+		[<a href="https://aclanthology.org/D18-2024.pdf">PDF</a>]
+        [<a href="https://github.com/thunlp/openke">Code</a>]
+        <br>
+			We propose an efficient open toolkit OpenKE for knowledge embedding. OpenKE builds a unified underlying platform to organize data and memory. It also applies GPU learning and parallel learning to speed up training.
+		</div>
+	</td></tr></tbody>
+</table>
+

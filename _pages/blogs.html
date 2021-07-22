@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /year-archive/
-title: "Blog posts"
+permalink: /blogs/
+title: "Blogs"
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
