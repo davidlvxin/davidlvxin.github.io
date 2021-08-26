@@ -29,6 +29,32 @@ Publications & Preprints
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://davidlvxin.github.io/images/pub/bimr.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Is Multi-Hop Reasoning Really Explainable? Towards Benchmarking Reasoning Interpretability
+        </b>
+        <br>
+		<i>
+        	EMNLP 2021
+        </i>
+        <br>
+	    	<b>Xin Lv</b>, Yixin Cao, Lei Hou, Juanzi Li, Zhiyuan Liu, Yichi Zhang and Zelin Dai
+        <br>
+		[<a href="https://arxiv.org/pdf/2104.06751.pdf">PDF</a>]
+        [<a href="https://github.com/THU-KEG/BIMR">Code</a>]
+        <br>
+			We propose a framework to quantitatively evaluate the interpretability of multi-hop reasoning models. Based on this framework, we annotate a dataset to form a benchmark that can accurately evaluate the interpretability.
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
 	    <img src="http://davidlvxin.github.io/images/pub/kat.png" width="250">
 	  </td>
 	  <td style="width:10px">
@@ -71,6 +97,8 @@ Publications & Preprints
         <br>
 	    	Yixin Cao, Xiang Ji, <b>Xin Lv</b>, Juanzi Li, Yonggang Wen and Hanwang Zhang
         <br>
+		[<a href="https://aclanthology.org/2021.acl-long.534.pdf">PDF</a>]
+        [<a href="https://github.com/TaoMiner/inferwiki">Code</a>]
         <br>
 			We highlighted three principles for KGC datasets: inferential ability, assumptions, and patterns, and contribute a large-scale dataset InferWiki. We established a benchmark with three types of seven KGC models on two tasks of triple classification and link prediction.
 		</div>
@@ -90,7 +118,7 @@ Publications & Preprints
         </b>
         <br>
 		<i>
-        	ACL Findings 2021
+        	Findings of ACL 2021
         </i>
         <br>
 	    	Jie Zhou, Shengding Hu, <b>Xin Lv</b>, Cheng Yang, Zhiyuan Liu, Wei Xu, Jie Jiang, Juanzi Li and Maosong Sun
