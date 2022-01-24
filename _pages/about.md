@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D student at the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) in Tsinghua University, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/).
+I am a fourth year Ph.D student at the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) in Tsinghua University, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/).
 I received my bachelor's degree in Computer Science and Technology from [Tsinghua University](https://www.tsinghua.edu.cn/).
 I am currently working on Knowledge Graph and Natural Language Processing.
 
@@ -23,6 +23,61 @@ td, th {
 
 Publications & Preprints
 ======
+
+2022
+-----
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://davidlvxin.github.io/images/pub/squire.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	SQUIRE: A Sequence-to-sequence Framework for Multi-hop Knowledge Graph Reasoning
+        </b>
+        <br>
+		<i>
+        	Arxiv 2022
+        </i>
+        <br>
+	    	Yushi Bai, <b>Xin Lv</b>, Juanzi Li, Lei Hou, Yincen Qu, Zelin Dai, Feiyu Xiong
+        <br>
+		[<a href="https://arxiv.org/pdf/2201.06206.pdf">PDF</a>]
+        [<a href="https://github.com/bys0318/SQUIRE">Code</a>]
+        <br>
+			SQUIRE treats the triple query and the evidential path as sequences and utilizes Transformer to learn and infer in an end-to-end fashion. We propose rule-enhanced learning and iterative training to further boost performance.
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://davidlvxin.github.io/images/pub/iclea.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	ICLEA: Interactive Contrastive Learning for Self-supervised Entity Alignment
+        </b>
+        <br>
+		<i>
+        	Arxiv 2022
+        </i>
+        <br>
+			Kaisheng Zeng, Zhenhao Dong, Lei Hou, Yixin Cao, Minghao Hu, Jifan Yu, <b>Xin Lv</b>, Juanzi Li, Ling Feng
+        <br>
+		[<a href="https://arxiv.org/pdf/2201.06225.pdf">PDF</a>]
+        [<a href="https://github.com/THU-KEG/ICLEA">Code</a>]
+        <br>
+			We propose an interactive contrastive learning model for self-supervised EA. The model encodes not only structures and semantics of entities (including entity name, entity description, and entity neighborhood), but also conducts cross-KG contrastive learning by building pseudo-aligned entity pairs.
+		</div>
+	</td></tr></tbody>
+</table>
 
 2021
 -----
