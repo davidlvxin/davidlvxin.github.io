@@ -29,6 +29,85 @@ Publications & Preprints
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://davidlvxin.github.io/images/pub/pkgc.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach
+        </b>
+        <br>
+		<i>
+        	ACL 2022 Findings
+        </i>
+        <br>
+	    	<b>Xin Lv</b>, Yankai Lin, Yixin Cao, Lei Hou, Juanzi Li, Zhiyuan Liu, Peng Li, Jie Zhou
+        <br>
+		[<a href="https://google.com">PDF</a>]
+        [<a href="https://google.com">Code</a>]
+        <br>
+			We highlight a more accurate evaluation setting OWA and propose a novel PLM-based KGC model named PKGC. In our experiments, we verify that CWA cannot bring accurate evaluation results.
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://davidlvxin.github.io/images/pub/program_transfer.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Program Transfer for Answering Complex Questions over Knowledge Bases
+        </b>
+        <br>
+		<i>
+        	ACL 2022
+        </i>
+        <br>
+	    	Shulin Cao, Jiaxin Shi, Zijun Yao, <b>Xin Lv</b>, Jifan Yu, Lei Hou, Juanzi Li, Zhiyuan Liu, Jinghui Xiao
+        <br>
+		[<a href="https://google.com">PDF</a>]
+        [<a href="https://google.com">Code</a>]
+        <br>
+			We propose the approach of program transfer, which aims to leverage the valuable program annotations on the rich-resourced KBs as external supervision signals to aid program induction for the low-resourced KBs that lack program annotations.
+		</div>
+	</td></tr></tbody>
+</table>
+
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://davidlvxin.github.io/images/pub/facte.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	Triple-as-Node Knowledge Graph and Its Embeddings
+        </b>
+        <br>
+		<i>
+        	DASFAA 2022
+        </i>
+        <br>
+	    	<b>Xin Lv</b>, Jiaxin Shi, Shulin Cao, Lei Hou, Juanzi Li
+        <br>
+		[<a href="https://google.com">PDF</a>]
+        [<a href="https://github.com/davidlvxin/facte">Code</a>]
+        <br>
+			We contribute a benchmark WD16K with additional fact-relevant relations, and a framework FactE, which can represent facts, entities and relations in the same space via attention. 
+		</div>
+	</td></tr></tbody>
+</table>
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
 	    <img src="http://davidlvxin.github.io/images/pub/squire.png" width="250">
 	  </td>
 	  <td style="width:10px">
@@ -173,7 +252,7 @@ Publications & Preprints
         </b>
         <br>
 		<i>
-        	Findings of ACL 2021
+        	ACL 2021 Findings
         </i>
         <br>
 	    	Jie Zhou, Shengding Hu, <b>Xin Lv</b>, Cheng Yang, Zhiyuan Liu, Wei Xu, Jie Jiang, Juanzi Li and Maosong Sun
