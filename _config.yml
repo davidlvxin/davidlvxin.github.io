@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xin Lv"
 title_separator          : "-"
 name                     : &name "Xin Lv"
-description              : &description "Fourth Year Ph.D Student @ Knowledge Engineering Group, Tsinghua University"
+description              : &description "Long Context Model Director @ Zhipu AI"
 url                      : https://davidlvxin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "davidlvxin/davidlvxin.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xin Lv（吕鑫）"
   avatar           : "profile.jpg"
-  bio              : "Fourth Year Ph.D Student @ KEG, Tsinghua University"
+  bio              : "Long Context Model Director @ Zhipu AI"
   location         : "Beijing, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=rJzgbYQAAAAJ"
-  email            :
+  email            : "lvxin14 at 163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

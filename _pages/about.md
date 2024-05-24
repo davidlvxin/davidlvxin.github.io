@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Ph.D student at the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) in Tsinghua University, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/).
-I received my bachelor's degree in Computer Science and Technology from [Tsinghua University](https://www.tsinghua.edu.cn/).
-I am currently working on Knowledge Graph and Natural Language Processing.
+I am currently working at Zhipu AI, where I lead research on long context models. I completed both my PhD and undergraduate studies in the Department of Computer Science at Tsinghua University, under the supervision of Professor [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/). My primary research interests include long context, pre-trained models, and knowledge graphs. Through my work, I aim to advance the understanding and application of these areas, contributing to the development of more sophisticated AI systems.
 
 <!-- What's New
 ===== -->
@@ -26,6 +24,8 @@ Publications & Preprints
 
 2022
 -----
+
+The list of papers is no longer updated, More details can be found on my [Google Scholar](https://scholar.google.com/citations?user=rJzgbYQAAAAJ).
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
