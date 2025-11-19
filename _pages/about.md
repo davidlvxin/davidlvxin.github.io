@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working at Zhipu AI, where I lead the O Team focusing on **Reasoning RL, RL infra and Agentic RL** for the GLM model family, including **GLM-4.5, GLM-4.6, Z1**, and related models. Our team develops and maintains **[slime](https://github.com/THUDM/slime)**, an open-source RL framework for reasoning-centric training. Outside reinforcement learning, my earlier work centered on long context training techniques and the training of long context models. More recently, I have been exploring sparse attention architectures and other emerging approaches for extending model context efficiently. I completed both my Ph.D. and B.S. in the Department of Computer Science at Tsinghua University, under the supervision of [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/). My broader goal is to advance our understanding of reasoning, long context computation, and training methodologies that support more capable and reliable AI systems.
+I am currently working at Zhipu AI, where I lead the O Team focusing on **Reasoning RL, RL infra and Agentic RL** for the GLM model family, including **GLM-4.5, GLM-4.6, Z1**, and related models. Our team develops and maintains **[slime](https://github.com/THUDM/slime)**, an open-source RL framework for efficient RL training. 
+
+Outside reinforcement learning, my earlier work centered on long context training techniques and the training of long context models. More recently, I have been exploring sparse attention architectures and other emerging approaches for extending model context efficiently. 
+
+I completed both my Ph.D. and B.S. in the Department of Computer Science at Tsinghua University, under the supervision of [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/). My broader goal is to advance our understanding of reasoning, long context computation, and training methodologies that support more capable and reliable AI systems.
 
 <!-- What's New
 ===== -->
