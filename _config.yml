@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xin Lv"
 title_separator          : "-"
 name                     : &name "Xin Lv"
-description              : &description "Long Context Model Director @ Zhipu AI"
+description              : &description "Researcher @ Zhipu AI"
 url                      : https://davidlvxin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "davidlvxin/davidlvxin.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xin Lv（吕鑫）"
   avatar           : "profile.jpg"
-  bio              : "Long Context Model Director @ Zhipu AI"
+  bio              : "Researcher @ Zhipu AI"
   location         : "Beijing, China"
   employer         :
   pubmed           :

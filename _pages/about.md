@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working at Zhipu AI, where I lead research on long context models. I completed both my PhD and undergraduate studies in the Department of Computer Science at Tsinghua University, under the supervision of Professor [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/). My primary research interests include long context, pre-trained models, and knowledge graphs. Through my work, I aim to advance the understanding and application of these areas, contributing to the development of more sophisticated AI systems.
+I am currently working at Zhipu AI, where I lead the O Team focusing on **Reasoning RL, RL infra and Agentic RL** for the GLM model family, including **GLM-4.5, GLM-4.6, Z1**, and related models. Our team develops and maintains **[slime](https://github.com/THUDM/slime)**, an open-source RL framework for reasoning-centric training. Outside reinforcement learning, my earlier work centered on long context training techniques and the training of long context models. More recently, I have been exploring sparse attention architectures and other emerging approaches for extending model context efficiently. I completed both my Ph.D. and B.S. in the Department of Computer Science at Tsinghua University, under the supervision of [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/). My broader goal is to advance our understanding of reasoning, long context computation, and training methodologies that support more capable and reliable AI systems.
 
 <!-- What's New
 ===== -->
@@ -26,6 +26,32 @@ Publications & Preprints
 -----
 
 The list of papers is no longer updated, More details can be found on my [Google Scholar](https://scholar.google.com/citations?user=rJzgbYQAAAAJ).
+
+<table style="border: none!important;">
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://davidlvxin.github.io/images/pub/glm45.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        	GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
+        </b>
+        <br>
+		<i>
+        	Arxiv 2025
+        </i>
+        <br>
+	    	Aohan Zeng, <b>Xin Lv</b>, Qinkai Zheng, Zhenyu Hou, Bin Chen, Chengxing Xie, Cunxiang Wang, Da Yin, ...
+        <br>
+		[<a href="https://arxiv.org/pdf/2508.06471">PDF</a>]
+        [<a href="https://huggingface.co/zai-org/GLM-4.6">Code</a>]
+        <br>
+			We present GLM-4.5, an open-source Mixture-of-Experts (MoE) large language model with 355B total parameters and 32B activated parameters, featuring a hybrid reasoning method that supports both thinking and direct response modes.
+		</div>
+	</td></tr></tbody>
+</table>
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
